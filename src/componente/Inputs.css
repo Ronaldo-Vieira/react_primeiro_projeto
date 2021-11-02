@@ -1,0 +1,23 @@
+#flexColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #C9C9C9;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+input {
+    margin: 10px;
+    padding: 8px;
+}
+
+button {
+    width: 90%;
+    padding: 8px;
+}
+
+h4 {
+    margin: 3px;
+}
